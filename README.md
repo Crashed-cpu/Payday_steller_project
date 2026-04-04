@@ -183,6 +183,10 @@ get_token()                   → Address
 > 🔍 View Contract on Stellar Expert:  
 > https://stellar.expert/explorer/testnet/contract/CCHTFW3WHYOFIXHCLV2P2Y6GDRD7IESNZWBWQL5IETJKPNEP4A2T64JS
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/21cd1ff0-eaa5-405d-af33-b00a31f76b07" />
+
+
+
 ### 👤 Admin / Deployer Wallet
 
 | Role | Address |
