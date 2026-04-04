@@ -1,5 +1,3 @@
-# Payday_steller_project
-By Rise in Hands-On
 <div align="center">
 
 # 💸 PaydayAdvance
@@ -182,8 +180,17 @@ get_token()                   → Address
 | **Stellar Testnet** | `CCHTFW3WHYOFIXHCLV2P2Y6GDRD7IESNZWBWQL5IETJKPNEP4A2T64JS` |
 | **Stellar Mainnet** | _Not yet deployed_ |
 
-> 🔍 View on Stellar Expert:  
+> 🔍 View Contract on Stellar Expert:  
 > https://stellar.expert/explorer/testnet/contract/CCHTFW3WHYOFIXHCLV2P2Y6GDRD7IESNZWBWQL5IETJKPNEP4A2T64JS
+
+### 👤 Admin / Deployer Wallet
+
+| Role | Address |
+|---|---|
+| **Admin Wallet** | `GAE3XJ5Y5XFPRG2ZXR4RDOIY7B7RUAMFROFYWQL37FRU5PDYUAXKXU63` |
+
+> 🔍 View Wallet on Stellar Expert:  
+> https://stellar.expert/explorer/testnet/account/GAE3XJ5Y5XFPRG2ZXR4RDOIY7B7RUAMFROFYWQL37FRU5PDYUAXKXU63
 
 ---
 
