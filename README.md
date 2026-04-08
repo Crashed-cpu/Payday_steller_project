@@ -222,4 +222,4 @@ cargo test --features testutils
 
 ## 📜 License
 
-MIT © 2024 Your Name
+MIT © 2024 Ayush Saini @ Crashed-cpu
