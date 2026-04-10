@@ -213,7 +213,7 @@ get_token()                   → Address
 Pull requests are welcome! Please open an issue first to discuss significant changes.
 
 ```bash
-git clone https://github.com/your-org/payday-advance.git
+git clone https://github.com/Crashed-cpu/Payday_steller_project.git
 cd payday-advance
 cargo test --features testutils
 ```
