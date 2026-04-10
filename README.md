@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💸 PaydayAdvance
+# 💸 PaydayAdvance: On-chain EWA Protocol | Submission for Stellar Journey to Mastery
 
 ### On-chain Earned-Wage Access · Powered by Stellar Soroban
 
